@@ -14,6 +14,7 @@ namespace ClimaTempoSolution.ConsoleApp
 
             Console.WriteLine("Country: " + forecast.country);
             Console.WriteLine("State: " + forecast.state);
+
             foreach(var day in forecast.data)
             {
                 Console.WriteLine("-> Date: " + day.date_br);
