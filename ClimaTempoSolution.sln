@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimaTempoSolution.ConsoleApp", "ClimaTempoSolution.ConsoleApp\ClimaTempoSolution.ConsoleApp.csproj", "{28686B26-5E51-42D5-A593-73968B3B39C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28686B26-5E51-42D5-A593-73968B3B39C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28686B26-5E51-42D5-A593-73968B3B39C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28686B26-5E51-42D5-A593-73968B3B39C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28686B26-5E51-42D5-A593-73968B3B39C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE6E111-E909-467C-A082-88754F39FFF8}
+	EndGlobalSection
+EndGlobal
